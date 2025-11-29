@@ -1,0 +1,1 @@
+worker: python asuran-movie-bot.py
